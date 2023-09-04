@@ -22,7 +22,6 @@ const HELP_ITEMS = [
 
 // Test comment
 // Another comment
-// Another comment here
 function HelpArea() {
   return (
     <section data-testid="help-area" id="help-area">
